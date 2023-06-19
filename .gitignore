@@ -1,0 +1,8 @@
+# ignore all .DS_Store files
+.DS_Store
+# Ignore the datasets folder in brazilian_e-commerce directory
+/Users/maximilianolopezsalgado/data_projects/brazilian_e-commerce/datasets
+# Ignore zip, db and csv files
+*.csv
+*.zip  
+*.db
