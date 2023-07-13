@@ -2,6 +2,7 @@
 .DS_Store
 # Ignore the datasets folder in your-project directory
 /Users/maximilianolopezsalgado/data_projects/your-project/datasets
+=======
 # Ignore zip, db and csv files
 *.csv
 *.zip  
